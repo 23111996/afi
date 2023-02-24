@@ -1,4 +1,4 @@
-#-----------------[ IMPORT-MODULE ]-------------------
+#-----------------[ IMPORT-MODULE ]-------------------#
 import requests,json,os,sys,random,datetime,time,re
 from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn,TimeElapsedColumn
 from concurrent.futures import ThreadPoolExecutor as tred
